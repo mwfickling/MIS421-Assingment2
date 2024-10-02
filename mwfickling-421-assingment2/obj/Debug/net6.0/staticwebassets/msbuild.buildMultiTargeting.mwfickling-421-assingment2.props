@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mwfickling-421-assingment2.props" />
+</Project>

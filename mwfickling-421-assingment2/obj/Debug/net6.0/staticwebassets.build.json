@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "FsbO7goqIwBidSNKaHEVXR4my78w0X5dC/NQwrd7dls=",
+  "Source": "mwfickling-421-assingment2",
+  "BasePath": "_content/mwfickling-421-assingment2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mwfickling-421-assingment2\\wwwroot",
+      "Source": "mwfickling-421-assingment2",
+      "ContentRoot": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\",
+      "BasePath": "_content/mwfickling-421-assingment2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\index.css",
+      "SourceId": "mwfickling-421-assingment2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\",
+      "BasePath": "_content/mwfickling-421-assingment2",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\index.html",
+      "SourceId": "mwfickling-421-assingment2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\",
+      "BasePath": "_content/mwfickling-421-assingment2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\index.js",
+      "SourceId": "mwfickling-421-assingment2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mwfic\\source\\repos\\mwfickling-421-assingment2\\wwwroot\\",
+      "BasePath": "_content/mwfickling-421-assingment2",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    }
+  ]
+}
